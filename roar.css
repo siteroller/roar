@@ -9,6 +9,7 @@
 	position:				absolute;
 	width:					300px;
 	cursor:					pointer;
+	visibility:				visible !important;
 }
 .roar-bg {
 	position:				absolute;
