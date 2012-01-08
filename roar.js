@@ -23,9 +23,9 @@ var Roar = new Class({
 		margin: {x: 10, y: 10},
 		offset: 10,
 		className: 'roar',
-		onShow: $empty,
-		onHide: $empty,
-		onRender: $empty
+		onShow: function(){},
+		onHide: function(){},
+		onRender: function(){}
 	},
 
 	initialize: function(options) {
